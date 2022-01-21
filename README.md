@@ -24,3 +24,9 @@
 
 <p>
 <img width="40%" src = './img/Screenshot_1.jpg' alt='img1'>
+<img width="40%" src = './img/Screenshot_2.jpg' alt='img2'>
+<br>
+<img width="40%" src = './img/Screenshot_3.jpg' alt='img3'>
+<img width="40%" src = './img/Screenshot_4.jpg' alt='img4'>
+<img width="40%" src = './img/Screenshot_5.jpg' alt='img5'>
+</p>
