@@ -1,5 +1,4 @@
-
 <img src ='https://media.giphy.com/media/EWqZuU1dEvc3PfWGy6/giphy.gif' alt='img'>
-<h1 margin-left=427px font-size=41px margin-top=-85px>Hi! I am Cecilia👋</h1>
+<h1 align="center">Hi! I am Cecilia👋 Full Stack Developer 💻</h1>
 
-
+## :star: Languages and Tools:
