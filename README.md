@@ -19,3 +19,8 @@
 
 <p>🙋🏻I can contribute a lot as a developer:<br>
 -There are many types of developers in this community, all with very diverse capabilities. I stand out in my problem solving skills. I am very curious and love to learn new things all the time. If I don't know something, I investigate it and I don't stop until I understand it and I can develop it. I have facility to work in a group and whenever I can, I like to help others to achieve their goals, it makes me happy to see the progress of my colleagues.</p>
+
+## :pushpin: My proyects
+
+<p>
+<img src = './img/Screenshot_1.jpg' alt='img1'>
