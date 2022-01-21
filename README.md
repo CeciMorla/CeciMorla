@@ -9,3 +9,6 @@
 <img width="10%" src = './iconos/node.png'> Node.js
 <img width="10%" src = './iconos/express.png'> Express.js
 </h3>
+<h3>
+<img width="7%" src = './iconos/postgresSql.png'> PostgreSQL
+</h3>
