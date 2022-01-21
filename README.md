@@ -32,3 +32,9 @@
 </p>
 
 ## :paperclip: How to reach me:
+
+<span >
+<a href="https://www.linkedin.com/in/cecilia-morlacchi-dev/?locale=en_US/" ><img width="5%" src="./iconos/linkedin.png"> &nbsp;
+<a href="mailto:ceciliamorlacchi@gmail.com" ><img width="5%" src="./iconos/Gmail-Logo.png">
+<a href="https://wa.link/pdt5g1" ><img width="5%" src="./iconos/whatsapp.png">
+</span>
