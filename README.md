@@ -7,4 +7,5 @@
 <img width="5%" src = './iconos/react.png'> React.js 
 <img width="5%" src = './iconos/redux.png'> Redux.js
 <img width="10%" src = './iconos/node.png'> Node.js
+<img width="10%" src = './iconos/express.png'> Express.js
 </h3>
