@@ -16,3 +16,6 @@
 <img width="5%" src = './iconos/bootstrap.png'> Bootstrap
 <img width="5%" src = './iconos/css.png'> CSS
 </h3>
+
+<p>🙋🏻‍♀️Puedo aportar mucho como desarrolladora:<br>
+-Existen muchos tipos de desarrolladores en esta comunidad, todos con capacidades muy diversas. Me destaco en mi capacidad de resolución de problemas. Soy muy curiosa y me encanta aprender cosas nuevas siempre. Si no se algo, lo investigo y no paro hasta entenderlo y poder desarrollarlo. Tengo facilidad para trabajar en grupo y siempre que pueda me gusta ayudar a otros a lograr sus objetivos, me hace feliz ver el progreso de mis compañeros.</p>
