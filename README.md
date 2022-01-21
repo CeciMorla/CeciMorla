@@ -23,4 +23,4 @@
 ## :pushpin: My proyects
 
 <p>
-<img src = './img/Screenshot_1.jpg' alt='img1'>
+<img width="40%" src = './img/Screenshot_1.jpg' alt='img1'>
