@@ -3,4 +3,4 @@
 
 ## :star: Languages and Tools:
 
-<img src = './iconos/js.png'>
+<h3><img width="5%" src = './iconos/js.png'> Javascript <img width="5%" src = './iconos/react.png'> React <img width="5%" src = './iconos/redux.png'> Redux</h3>
