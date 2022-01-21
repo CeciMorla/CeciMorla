@@ -2,3 +2,5 @@
 <h1 align="center">Hi! I am Cecilia👋 Full Stack Developer 💻</h1>
 
 ## :star: Languages and Tools:
+
+<img src = './iconos/js.png'>
