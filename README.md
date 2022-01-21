@@ -1,4 +1,5 @@
-<div style="background:black;width:100%">
+
 <img src ='https://media.giphy.com/media/EWqZuU1dEvc3PfWGy6/giphy.gif' alt='img'>
-</div>
+<h1>HI! I am Cecilia👋</h1>
+
 
