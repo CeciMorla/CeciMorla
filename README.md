@@ -35,8 +35,8 @@
 <img width="45%" src = './img2/Screenshot_1.jpg' alt='img1'>
 <img width="45%" src = './img2/Screenshot_9.jpg' alt='img2'>
 <br>
-<img width="30%" src = './img2/Screenshot_3.jpg' alt='img3'>
-<img width="30%" src = './img2/Screenshot_4.jpg' alt='img4'>
+<img width="30%" src = './img2/3.jpeg' alt='img3'>
+<img width="30%" src = './img2/2.jpeg' alt='img4'>
 <img width="30%" src = './img2/1.jpeg' alt='img5'>
 </p>
 
