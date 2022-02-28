@@ -36,8 +36,8 @@
 <img width="45%" src = './img2/Screenshot_9.jpg' alt='img2'>
 <br>
 <img width="30%" src = './img2/Screenshot_3.jpg' alt='img3'>
-<img width="30%" src = './img/Screenshot_4.jpg' alt='img4'>
-<img width="30%" src = './img/WhatsApp Image 2022-02-28 at 6.19.31 PM.jpg' alt='img5'>
+<img width="30%" src = './img2/Screenshot_4.jpg' alt='img4'>
+<img width="30%" src = './img2/WhatsApp Image 2022-02-28 at 6.19.31 PM.jpg' alt='img5'>
 </p>
 
 ## :paperclip: How to reach me:
